@@ -11,6 +11,7 @@ The project integrates a Python-based machine learning model with a Flask REST A
 - Real-time predictions through a Flask REST API.
 - Integration of a serialized machine learning model (`model.pkl`).
 - Simple and lightweight application architecture.
+- Monolithic Architecture
 
 ## 🛠️ Tech Stack
 
